@@ -15,8 +15,6 @@ git remote add origin https://github.com/hoju-spe/vision-agent-backend-mvp.git
 git push -u origin main
 ```
 
-`origin` URL은 실제 GitHub 레포 주소로 바꿔야 합니다.
-
 ## 2. EC2 인스턴스 생성
 
 권장 설정:
